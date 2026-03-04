@@ -4,3 +4,19 @@
 [submodule "themes/hugo-book-teluq"]
 	path = themes/hugo-book-teluq
 	url = git@github.com:cjauvin/hugo-book-teluq.git
+<person>
+  <name>Alice Dupont</name>
+  <age>32</age>
+  <isDeveloper>true</isDeveloper>
+  <address>
+    <street>12 rue des Lilas</street>
+    <city>Paris</city>
+    <country>France</country>
+  </address>
+  <hobbies>
+    <hobby>lecture</hobby>
+    <hobby>escalade</hobby>
+    <hobby>photographie</hobby>
+  </hobbies>
+</person>
+
